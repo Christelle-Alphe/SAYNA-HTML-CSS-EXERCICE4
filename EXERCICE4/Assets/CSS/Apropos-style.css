@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+/*********************************************Style pour toute la page**************************************************/
+body {
+    padding: 0%;
+    margin: 0%;
+}
+
+@font-face {
+    font-family: 'valy';
+    src:url(../Far-From\ Homecoming\ Updated.otf);
+}
+/***************************************Style pour le header A propos*************************************************/
+header {
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+.Navbar a {
+    color: #FFFFFF;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-decoration: none;
+}
+/*******************************************Corps du devoir a propos**************************************************/
+section {
+    padding: 3%;
+}
+form input {
+    background-color: #B11313;
+    width: 270px;
+    height: 40px;
+    border-radius: 25px;
+    padding: 3%;
+    margin-top: 3%;
+}
+form textarea {
+    background-color: #B11313;
+    width: 270px;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 3%;
+}
+form button {
+    background-color: #B11313;
+    border-radius: 15px;
+    width: 120px;
+    height: 30px;
+    margin-top: 3%;
+    margin-left: 30%;
+}
+/********************************************Style Footer*************************************************************/
+footer {
+    padding: 3%;
+}
+.part1 a{
+    color: #FFFFFF;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-decoration: none;
+}
+.part2 {
+    padding-top: 3%;
+}
+.part3 {
+    padding-top: 2%;
+}
